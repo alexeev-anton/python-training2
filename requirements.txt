@@ -1,0 +1,8 @@
+virtualenv
+pytest
+selenium
+jsonpickle
+pony
+pymysql
+mysql-connector-python-rf
+robotframework-python3
