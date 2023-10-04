@@ -22,7 +22,7 @@ def test_contact_on_home_page_db(app, db):
         assert db_contacts[i].lastname == contacts_from_home_page[i].lastname
         assert db_contacts[i].address == contacts_from_home_page[i].address
         assert merge_phones_like_home_page(db_contacts[i]) == contacts_from_home_page[i].all_phones_from_home_page
-        assert merge_emails_like_home_page(db_contacts[i]) == contacts_from_home_page[i].email
+        assert merge_emails_like_home_page(db_contacts[i]) == contacts_from_home_page[i].all_emails_from_home_page
 
 
 def clear_phones(s):

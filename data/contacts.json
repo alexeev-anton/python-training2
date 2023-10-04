@@ -17,7 +17,8 @@
     "byear": null,
     "phone2": null,
     "id": null,
-    "all_phones_from_home_page": null
+    "all_phones_from_home_page": null,
+    "all_emails_from_home_page": null
   },
   {
     "py/object": "model.contact.Contact",
@@ -37,7 +38,8 @@
     "byear": null,
     "phone2": null,
     "id": null,
-    "all_phones_from_home_page": null
+    "all_phones_from_home_page": null,
+    "all_emails_from_home_page": null
   },
   {
     "py/object": "model.contact.Contact",
@@ -57,7 +59,8 @@
     "byear": null,
     "phone2": null,
     "id": null,
-    "all_phones_from_home_page": null
+    "all_phones_from_home_page": null,
+    "all_emails_from_home_page": null
   },
   {
     "py/object": "model.contact.Contact",
@@ -77,7 +80,8 @@
     "byear": null,
     "phone2": null,
     "id": null,
-    "all_phones_from_home_page": null
+    "all_phones_from_home_page": null,
+    "all_emails_from_home_page": null
   },
   {
     "py/object": "model.contact.Contact",
@@ -97,7 +101,8 @@
     "byear": null,
     "phone2": null,
     "id": null,
-    "all_phones_from_home_page": null
+    "all_phones_from_home_page": null,
+    "all_emails_from_home_page": null
   },
   {
     "py/object": "model.contact.Contact",
@@ -117,6 +122,7 @@
     "byear": null,
     "phone2": null,
     "id": null,
-    "all_phones_from_home_page": null
+    "all_phones_from_home_page": null,
+    "all_emails_from_home_page": null
   }
 ]
