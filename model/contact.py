@@ -22,7 +22,7 @@ class Contact:
         self.byear = byear
         self.phone2 = phone2
         self.id = id
-        self.all_phones_from_home_page = all_phones_from_home_page,
+        self.all_phones_from_home_page = all_phones_from_home_page
         self.all_emails_from_home_page = all_emails_from_home_page
 
 
